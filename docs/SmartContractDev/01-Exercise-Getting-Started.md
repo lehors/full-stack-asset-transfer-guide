@@ -1,6 +1,6 @@
 # Getting Started with a Smart Contract
 
-[PREVIOUS - Introduction](./00-Introduction.md) <==>  [NEXT Create a Blank Contract](./02-Creating-Blank-Contract.md)
+[PREVIOUS - Introduction](./00-Introduction.md) <==>  [NEXT - Adding a Transaction Function](./02-Exercise-Adding-tx-function.md)
 
 ---
 
@@ -314,4 +314,4 @@ Watch out for:
     - remember the client/fabric transaction timeout, whilst you've the chaicode stopped in the debugger, the timeout is still 'ticking'
 
 
-Look at the [Test and Debuging Contracts](./03-Test-And-Debug.md) for more details and information on other languages.
+Look at the [Test and Debuging Contracts](./03-Test-And-Debug-Reference.md) for more details and information on other languages.
